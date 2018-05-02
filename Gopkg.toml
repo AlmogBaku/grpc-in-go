@@ -1,0 +1,6 @@
+[[constraint]]
+  name = "github.com/davecgh/go-spew/spew"
+
+[[constraint]]
+  name = "google.golang.org/grpc"
+  version = "1.6.0"
